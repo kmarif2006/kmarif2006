@@ -43,27 +43,6 @@ I'm **K M Arif**, a passionate Computer Science student on a mission to build me
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## 🌟 Featured Projects
-
-<details>
-  <summary>🌐 <b>Project Name 1</b></summary>
-  
-  > A full-stack web application that [brief description]
-  >
-  > **Tech Stack:** React, Node.js, MongoDB, Express
-  >
-  > [Link to repository or live demo]
-</details>
-
-<details>
-  <summary>📱 <b>Project Name 2</b></summary>
-  
-  > [Brief description]
-  >
-  > **Tech Stack:** [Technologies used]
-  >
-  > [Link to repository or live demo]
-</details>
 
 ## 📊 GitHub Stats
 
