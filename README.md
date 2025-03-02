@@ -10,8 +10,7 @@ I'm **K M Arif**, a passionate Computer Science student on a mission to build me
 - 🚀 Currently working on **full-stack web applications** with MERN stack
 - 🌱 Learning advanced **algorithms and system design**
 - 💼 Open to collaborating on **innovative web projects**
-- 🎯 2025 Goals: Master React ecosystem & contribute to open source
-- ⚡ Fun fact: I debug code and solve puzzles in my free time
+
 
 ## 🛠️ Skills & Technologies
 
