@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=29&duration=3500&pause=1300&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+K+M+Arif;Shiv+Nadar+University,+Chennai">
 </p>
 
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -11,7 +11,6 @@
 </p>
 
 <br>
----
 <h2>Stats:</h2>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmarif2006&theme=tokyonight" />
