@@ -13,7 +13,7 @@
 </p>
 
 <br>
-
+---
 <h2>Stats:</h2>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmarif2006&theme=tokyonight" />
@@ -35,7 +35,6 @@
 </a>
 </p>
 
----
 ---
 
 <p align="center">
